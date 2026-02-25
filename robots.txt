@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tempat-rafting-terbaik-batu-malang.netlify.app/sitemap.xml
